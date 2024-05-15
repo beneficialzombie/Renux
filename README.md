@@ -18,3 +18,5 @@ Download the ISO file in Releases, and flash it onto a USB. Put the USB in the t
 
        _C: Mac:_
          Download the ISO file in Releases, and download your virtual machine manager of choice. Then Create a new virtual machine, using the Ubuntu x64 template, making sure to add at least 20 GB of free space to the virtual Hard Drive. Then Add the ISO to the Virtual Machine. You must have at least 1 gb ram to run this OS.
+
+Special thanks to ChatGPT for advice on features to include in this OS, and also to the creators of Q4OS for the base Image.
